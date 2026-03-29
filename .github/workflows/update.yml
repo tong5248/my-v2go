@@ -47,20 +47,20 @@ jobs:
         echo "Filtering nodes: Excluding CN, HK, RU, IR and keeping top 500..."
         
         # 1. 如果文件存在，开始清洗
-        if [ -f "All_Configs_Sub.txt" ]; then
+        if [ -f "AllConfigsSub.txt" ]; then
           # 排除包含 中国, 香港, 俄罗斯, 伊朗 关键词的行 (支持中文和常用缩写)
           # grep -vE 表示排除匹配项
-          grep -vE "中国|香港|俄罗斯|伊朗|CN|HK|RU|IR|Russia|Iran" All_Configs_Sub.txt > filtered.tmp
+          grep -vE "中国|香港|俄罗斯|伊朗|CN|HK|RU|IR|Russia|Iran" AllConfigsSub.txt > filtered.tmp
           
           # 2. 只保留前 500 行 (通常排序靠前的节点是脚本最早处理的)
-          head -n 500 filtered.tmp > All_Configs_Sub.txt
+          head -n 500 filtered.tmp > AllConfigsSub.txt
           
           # 3. 清理临时文件
           rm filtered.tmp
           
-          echo "Filtering done. Remaining nodes: $(wc -l < All_Configs_Sub.txt)"
+          echo "Filtering done. Remaining nodes: $(wc -l < AllConfigsSub.txt)"
         else
-          echo "Warning: All_Configs_Sub.txt not found, skipping filter."
+          echo "Warning: AllConfigsSub.txt not found, skipping filter."
         fi  
         
     - name: Verify output files
@@ -79,9 +79,9 @@ jobs:
         ls -la Base64/ 2>/dev/null || echo "No Base64 directory found"
         
         # Count total configs and show file sizes
-        if [ -f "All_Configs_Sub.txt" ]; then
-          TOTAL_CONFIGS=$(wc -l < All_Configs_Sub.txt)
-          FILE_SIZE=$(du -h All_Configs_Sub.txt | cut -f1)
+        if [ -f "AllConfigsSub.txt" ]; then
+          TOTAL_CONFIGS=$(wc -l < AllConfigsSub.txt)
+          FILE_SIZE=$(du -h AllConfigsSub.txt | cut -f1)
           echo "\nMain config file: $TOTAL_CONFIGS configurations ($FILE_SIZE)"
         else
           echo "\nMain config file not found - checking if it was split..."
@@ -124,7 +124,7 @@ jobs:
         }
         
         # Handle potentially large files
-        handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
+        handle_large_file "AllConfigsSub.txt" "AllConfigsSub"
         handle_large_file "All_Configs_base64_Sub.txt" "All_Configs_base64_Sub"
         
         # Handle protocol files
