@@ -41,7 +41,28 @@ jobs:
         ulimit -n 65535
         ./aggregator
         echo "Config processing completed successfully!"
-      
+        
+    - name: Filter and Limit Nodes (High Quality)
+      run: |
+        echo "Filtering nodes: Excluding CN, HK, RU, IR and keeping top 500..."
+        
+        # 1. 如果文件存在，开始清洗
+        if [ -f "All_Configs_Sub.txt" ]; then
+          # 排除包含 中国, 香港, 俄罗斯, 伊朗 关键词的行 (支持中文和常用缩写)
+          # grep -vE 表示排除匹配项
+          grep -vE "中国|香港|俄罗斯|伊朗|CN|HK|RU|IR|Russia|Iran" All_Configs_Sub.txt > filtered.tmp
+          
+          # 2. 只保留前 500 行 (通常排序靠前的节点是脚本最早处理的)
+          head -n 500 filtered.tmp > All_Configs_Sub.txt
+          
+          # 3. 清理临时文件
+          rm filtered.tmp
+          
+          echo "Filtering done. Remaining nodes: $(wc -l < All_Configs_Sub.txt)"
+        else
+          echo "Warning: All_Configs_Sub.txt not found, skipping filter."
+        fi  
+        
     - name: Verify output files
       run: |
         echo "Verifying generated files..."
