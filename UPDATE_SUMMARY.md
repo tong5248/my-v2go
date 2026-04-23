@@ -1,22 +1,23 @@
 # V2Ray Config Update Summary
-Generated on: 2026-04-23 01:50:47 UTC
+Generated on: 2026-04-23 13:05:02 UTC
 
 ## Configuration Statistics
-- Total unique configurations: 8811
+- Total unique configurations: 8416
 - Protocol breakdown:
-  - vmess: 154 configs
-  - vless: 5455 configs
-  - trojan: 2063 configs
-  - ss: 1137 configs
+  - vmess: 150 configs
+  - vless: 5255 configs
+  - trojan: 1952 configs
+  - ss: 1057 configs
   - ssr: 0 configs
   - hy2: 1 configs
   - tuic: 1 configs
   - warp://: 0 configs
 
 ## Performance
-- Processing time: 53.14 seconds
-- Duplicate removal: 91.7% reduction (from 105550 to 8811)
+- Processing time: 85.56 seconds
+- Duplicate removal: 92.1% reduction (from 106152 to 8416)
 
 ## ⚠️ Failed Links (404 or Errors)
 The following sources could not be reached or returned no data:
 - https://raw.githubusercontent.com/miladtahanian/V2ray-Config/main/All_Configs_Sub.txt (HTTP 404)
+- https://v2.alicivil.workers.dev (Error)
