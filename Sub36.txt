@@ -1,7 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMzYg8J+UpQ==
-#profile-update-interval: 1
-#support-url: https://github.com/Danialsamadi/v2go
-#profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%203
-vmess://eyJhZGQiOiIxMDQuMjEuOTUuMTY1IiwiYWlkIjoiMCIsImhvc3QiOiJzYXJlaWtlbGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCBWTUVTUyB8IDIiLCJzY3kiOiJhdXRvIiwic25pIjoic2FyZWlrZWxhLmNvbSIsInRlc3RfbmFtZSI6Ijc4IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNzIuNjcuMTkyLjU3IiwiYWlkIjoiMCIsImhvc3QiOiJtYXgubWFua2FkbXUuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCBWTUVTUyB8IDEiLCJzY3kiOiJhdXRvIiwic25pIjoibWF4Lm1hbmthZG11LmNvbSIsInRlc3RfbmFtZSI6IjgxIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
