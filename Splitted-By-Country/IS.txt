@@ -1,2 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.246.191.25:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20TROJAN%20%7C%2012438
-vless://419e8d73-db47-4614-b54b-e707cf7df35c@5.180.43.242:443?encryption=none&security=reality&sni=ya.ru&fp=firefox&pbk=k7dworBISiOlCzqSKN29SWJoYDLN71QT6uS14v86pEo&sid=a1b2c3d4&type=tcp&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%2015176
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=/#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%203159

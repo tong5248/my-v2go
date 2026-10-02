@@ -1,1 +1,0 @@
-vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?type=grpc&security=reality&fp=chrome&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&sid=fcafb151&sni=vk.com&mode=gun&serviceName=grpc&authority=#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20VI%20%7C%20VLESS%20%7C%2018643
