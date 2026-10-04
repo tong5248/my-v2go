@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20SS%20%7C%202875
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M=@45.207.207.25:443#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20SS%20%7C%201870
+vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@pl-2070d4dca0.shamanapp.online:33740?encryption=none&type=xhttp&security=tls&sni=pl-2070d4dca0.shamanapp.online&fp=chrome&alpn=h2%2Chttp/1.1&path=/ShamanXHTTP2026&host=pl-2070d4dca0.shamanapp.online&mode=stream-up#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20VLESS%20%7C%2012084
