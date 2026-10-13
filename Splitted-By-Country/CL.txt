@@ -1,9 +1,8 @@
-ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20SS%20%7C%201829
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202331
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202339
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202345
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202346
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202347
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202348
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202385
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202402
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202615
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202616
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202617
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202628
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202646
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202651
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202654
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%202705
