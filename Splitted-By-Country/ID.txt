@@ -1,3 +1,4 @@
-vmess://eyJhZGQiOiJub2RlLWlkLTEudjJzdi50b3AiLCJhbHBuIjoiIiwiaG9zdCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsImlkIjoiMjM4NTA5OWYtMzAxYi00MzNmLTgzMGQtYTJmZDBhYzU1ZjU3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4eu8J+HqSBJRCB8IFZNRVNTIHwgNTA5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuZmFjZWJvb2suY29tIiwidGxzIjoidGxzIn0=
-trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20TROJAN%20%7C%206714
-trojan://idc117okt@103.226.139.201:443?security=tls#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20TROJAN%20%7C%206770
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@147.139.189.225:443?type=ws&security=tls&fp=android&host=proxy-1cu.pages.dev#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20VLESS%20%7C%201738
+vmess://eyJhZGQiOiJub2RlLWlkLTEudjJzdi50b3AiLCJhbHBuIjoiIiwiaG9zdCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsImlkIjoiMjM4NTA5OWYtMzAxYi00MzNmLTgzMGQtYTJmZDBhYzU1ZjU3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4eu8J+HqSBJRCB8IFZNRVNTIHwgNTUwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuZmFjZWJvb2suY29tIiwidGxzIjoidGxzIn0=
+trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20TROJAN%20%7C%207099
+trojan://idc117okt@103.226.139.201:443?security=tls#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20TROJAN%20%7C%207139
