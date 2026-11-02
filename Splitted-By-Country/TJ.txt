@@ -1,0 +1,1 @@
+vless://74df8abe-b176-4256-87be-e25a88aaee7e@77.95.0.133:443?encryption=none&security=tls&sni=link-vista-mua55s.pages.dev&fp=chrome&alpn=http/1.1&type=ws&host=link-vista-mua55s.pages.dev&path=/ws?ip=77.95.0.133:443#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AF%20TJ%20%7C%20VLESS%20%7C%203519
