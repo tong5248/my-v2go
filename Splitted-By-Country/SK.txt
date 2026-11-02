@@ -1,0 +1,1 @@
+trojan://humanity@185.112.249.201:8443?type=ws&security=tls&path=%2Fassignment&sni=www.cordweave.com&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%B0%20SK%20%7C%20TROJAN%20%7C%207350
