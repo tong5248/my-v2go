@@ -1,1 +1,0 @@
-vless://01f68793-0305-449d-af33-02b268bf6bfd@turkoglan.jafarghasemivip.ir:8080?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.X26Vpo3T2P8PrxZqhEisF31W4EK9pU_jKA9NZNpfVT4&host=turkoglan.jafarghasemivip.ir&type=ws&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%AA%20VE%20%7C%20VLESS%20%7C%202541
