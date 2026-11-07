@@ -1,28 +1,28 @@
 # V2Ray Config Update Summary
-Generated on: 2026-11-07 03:48:35 UTC
+Generated on: 2026-11-07 17:11:49 UTC
 
 ## Configuration Statistics
-- Total unique configurations: 7841
+- Total unique configurations: 7441
 - Protocol breakdown:
-  - vmess: 1629 configs
-  - vless: 3467 configs
-  - trojan: 676 configs
-  - ss: 2069 configs
+  - vmess: 1614 configs
+  - vless: 3111 configs
+  - trojan: 604 configs
+  - ss: 2112 configs
   - ssr: 0 configs
   - hy2: 0 configs
   - tuic: 0 configs
   - warp://: 0 configs
 
 ## Performance
-- Processing time: 57.94 seconds
-- Duplicate removal: 89.3% reduction (from 73608 to 7841)
+- Processing time: 56.57 seconds
+- Duplicate removal: 90.1% reduction (from 75043 to 7441)
 
 ## ⚠️ Failed Links (404 or Errors)
 The following sources could not be reached or returned no data:
-- https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray (HTTP 404)
-- https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt (HTTP 501)
-- https://raw.githubusercontent.com/miladtahanian/V2ray-Config/main/All_Configs_Sub.txt (HTTP 404)
-- https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt (HTTP 404)
 - https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix (HTTP 404)
+- https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt (HTTP 404)
 - https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt (HTTP 404)
+- https://raw.githubusercontent.com/miladtahanian/V2ray-Config/main/All_Configs_Sub.txt (HTTP 404)
+- https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt (HTTP 501)
 - https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt (HTTP 404)
+- https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray (HTTP 404)
