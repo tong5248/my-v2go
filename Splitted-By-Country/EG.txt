@@ -1,2 +1,0 @@
-ss://5386cd46-5736-4451-b9ab-81cecf23c85c@213.182.201.52:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AC%20EG%20%7C%20SS%20%7C%203922
-vless://5386cd46-5736-4451-b9ab-81cecf23c85c@213.182.201.52:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AC%20EG%20%7C%20VLESS%20%7C%206506
