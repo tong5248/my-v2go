@@ -1,0 +1,2 @@
+vless://cee05b0b-3d23-4c3b-b87e-def35b7ba460@171.22.129.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=malaysia.rigged.asia&fp=chrome&pbk=WFSE_E3aUxBhIjHy8bWcz0wAiYzpCFHpzASg1XQpc2Y&type=tcp#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20VLESS%20%7C%203906
+vless://cee05b0b-3d23-4c3b-b87e-def35b7ba460@171.22.129.20:443?type=tcp&security=reality&sni=vodka.sovietstore.shop&fp=chrome&pbk=2cv1KjDLuVuS7M0fZ5r6lbDkSEpSTXPIfJL0l_6CmQM&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20VLESS%20%7C%203909
