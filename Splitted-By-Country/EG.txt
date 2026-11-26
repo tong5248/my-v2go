@@ -1,1 +1,1 @@
-vless://83182e55-2298-405d-b4f8-797e47b50174@213.182.201.57:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AC%20EG%20%7C%20VLESS%20%7C%202525
+vless://83182e55-2298-405d-b4f8-797e47b50174@213.182.201.57:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AC%20EG%20%7C%20VLESS%20%7C%202535
